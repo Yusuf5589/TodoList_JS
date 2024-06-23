@@ -35,3 +35,30 @@
     padding: 0px;
     margin: 0px;
 }
+
+
+#todoList{
+    z-index: 1;
+}
+
+
+#popup{
+    z-index: 2;
+}
+
+
+#popupTitle{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+#todoText{
+    font-size: 17px;
+    font-weight: 700;
+}
+
+
+/* #popupCreate{
+
+} */
